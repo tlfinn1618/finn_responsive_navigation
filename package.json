@@ -1,0 +1,27 @@
+{
+  "name": "finn_responsive_navigation",
+  "version": "0.1.0",
+  "description": "Javascript Responsive Navigation bar that derives the links from an array of your links and styles the nav bar with css.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlfinn1618/finn_responsive_navigation.git"
+  },
+  "keywords": [
+    "JS",
+    "Navigation",
+    "bar"
+  ],
+  "author": "Thomas Finn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlfinn1618/finn_responsive_navigation/issues"
+  },
+  "homepage": "https://github.com/tlfinn1618/finn_responsive_navigation#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
